@@ -1,0 +1,25 @@
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project-card {
+  background-color: #1e1e1e;
+  padding: 20px;
+  width: 45%;
+  border-radius: 10px;
+}
+
+.project-card h3 {
+  color: #00eaff;
+}
+
+.project-card a {
+  color: #a020f0;
+  transition: color 0.3s ease;
+}
+
+.project-card a:hover {
+  color: #00eaff;
+}
