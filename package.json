@@ -1,4 +1,5 @@
 {
+  "homepage": "http://brentopsomer.github.io/portfolioreact",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -32,6 +33,5 @@
     "postcss": "^8.5.1",
     "tailwindcss": "^4.0.1",
     "vite": "^6.0.5"
-  },
-  "homepage": "https://brentopsomer.github.io/portfolioreact"
+  }
 }
